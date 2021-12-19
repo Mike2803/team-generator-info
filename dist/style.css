@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --primary: burlywood;
+    --secondary: lavender;
+}
+
+body {
+    background-image: url(https://wallpaperaccess.com/full/2727141.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+#navbar {
+    background-color: var(--primary);
+    color: var(--secondary);
+    font-size: 50x;
+}
+
+.navbar-brand {
+    font-size: 50px;
+}
+
+.card-header {
+    background-color: var(--primary);
+    color: var(--secondary);
+}
+
+.card-body {
+    background-color: var(--primary);
+    color: var(--secondary);
+}
+
+.container {
+    margin: 100px;
+    justify-content: space-evenly;
+    display: flex;
+}
+a {
+    color: var(--secondary);
+}
