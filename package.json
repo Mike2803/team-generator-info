@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Mike2803/team-generator-info#readme",
   "devDependencies": {
     "jest": "^27.4.5"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
   }
 }
