@@ -1,10 +1,10 @@
 # team-generator-info
 
-#Description
+## Description
 
 * This application was created to generate a team profile based on user input using the inquirer module from Node.js displaying the information on a new created html page with a with a style sheet. This project demonstrates use of OOP and TDD using Jest.
 
-#Installation
+## Installation
 
 * the user should clone the repository from GitHub and download Node.This application also requires a file system and inquirer module. If testing is required, this application uses Jest.
 
